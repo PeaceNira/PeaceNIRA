@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 -⚡i mainly focus on python development and networking, but i also know quite alot of golang and c#/c.
 
--⚡disablities will never stop me from reaching my goals
-
 - 📫 discord: хардбас на всю жизнь#2245
 - 📫 jabber: phantomsec@xmpp.jp
 - 📫 email: phantomsec2@protonmail.com
