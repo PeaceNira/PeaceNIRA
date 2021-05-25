@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 
 -⚡disablities will never stop me from reaching my goals
 
+- 📫 discord: хардбас на всю жизнь#2245
+- 📫 jabber: phantomsec@xmpp.jp
+- 📫 email: phantomsec2@protonmail.com
 
 [![PeaceNIRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeaceNIRA&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
