@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡i mainly focus on python development and networking, but i also know quite alot of golang and c#/c.
-⚡disablities will never stop me from reaching my goals
+-⚡i mainly focus on python development and networking, but i also know quite alot of golang and c#/c.
+
+-⚡disablities will never stop me from reaching my goals
+
+
 [![PeaceNIRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeaceNIRA&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
