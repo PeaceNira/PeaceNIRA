@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 -⚡i mainly focus on python development and networking, but i also know quite alot of golang and c#/c.
 
-- 📫 discord: peace#2245
+- 📫 discord: 3-meo-peace#5857
 - 📫 jabber: phantomsec@xmpp.jp
 - 📫 email: phantomsec2@protonmail.com
 
