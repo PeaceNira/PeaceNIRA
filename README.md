@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -⚡i mainly focus on python development and networking, but i also know quite alot of golang and c#/c, nothing here is meant to be used for irl work or paid projects.
 
 - 📫 discord: P3ACE#0001
-- 📫 jabber: phantomsec@xmpp.jp
-- 📫 email: phantomsec2@protonmail.com
+- 📫 jabber: [REDACTED FOR PRIVACY/OPSEC]
+- 📫 email: C6-krytek@mail.com 
 
 [![PeaceNIRA's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeaceNIRA&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
