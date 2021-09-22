@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--⚡i mainly focus on python development and networking, but i also know quite alot of golang and c#/c.
+-⚡i mainly focus on python development and networking, but i also know quite alot of golang and c#/c, nothing here is meant to be used for irl work or paid projects.
 
-- 📫 discord: 3-meo-peace#5857
+- 📫 discord: P3ACE#0001
 - 📫 jabber: phantomsec@xmpp.jp
 - 📫 email: phantomsec2@protonmail.com
 
